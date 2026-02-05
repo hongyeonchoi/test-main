@@ -1,4 +1,4 @@
 [submodule "test-sub"]
-	path = test-sub
+	path = Data
 	url = https://github.com/hongyeonchoi/hongyeonchoi-test-sub.git
 	branch = main
